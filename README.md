@@ -9,7 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub repo](https://github.com/mrg-repo/QR-Code-FrontendMentor)
+- Solution URL: (https://github.com/mrg-repo/QR-Code-FrontendMentor)
+- Live Site URL: (https://mrg-repo.github.io/QR-Code-FrontendMentor/)
 
 ### Built with
 
